@@ -1,7 +1,3 @@
-<!-- Banner -->
-
-<img src="./assets/banner.png" alt="Banner" width="100%"/>
-
 # 👋 Ayush Kumar Shaw
 
 **B.Tech Computer Science @ NIT Durgapur (Class of 2027)**
@@ -90,3 +86,4 @@ A cross‑platform meeting intelligence application that records meetings, perfo
 ---
 
 *Made with ❤️ by Ayush Kumar Shaw — questions or opportunities? Reach me at [ayushaks099@gmail.com](mailto:ayushaks099@gmail.com)*
+
