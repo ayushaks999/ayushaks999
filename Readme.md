@@ -4,7 +4,7 @@
 *Applied Machine Learning • Generative AI • Production‑Grade Systems*
 
 <p>
-  <img align="left" width="120" src="./assets/avatar.png" alt="Ayush Shaw"/>
+  <img align="left" width="120" src="./assets/Ayush_Shaw.png" alt="Ayush Shaw"/>
   <br/>
   <a href="mailto:ayushaks099@gmail.com">📧 ayushaks099@gmail.com</a> • 
   <a href="https://linkedin.com/in/ayush-shaw-231b86325">LinkedIn</a> • 
@@ -86,4 +86,5 @@ A cross‑platform meeting intelligence application that records meetings, perfo
 ---
 
 *Made with ❤️ by Ayush Kumar Shaw — questions or opportunities? Reach me at [ayushaks099@gmail.com](mailto:ayushaks099@gmail.com)*
+
 
