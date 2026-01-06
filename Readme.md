@@ -42,9 +42,8 @@ My work sits at the intersection of **Applied ML, Generative AI, and robust soft
 
 An end-to-end scientific ML + RAG platform that converts **ARGO NetCDF ocean profiles** into a structured, queryable database. The system integrates vector search with retrieval-augmented generation to provide provenance-tracked answers and supports multi-model forecasting with uncertainty estimation.
 
-**Tech:**
-Python, Streamlit, xarray, SQLAlchemy, LangChain, ChromaDB, scikit-learn, XGBoost, LightGBM, Plotly
-🔗 Repository: [https://github.com/ayushaks999/OceanForge_AI](https://github.com/ayushaks999/OceanForge_AI)
+🔗 **Repository:** [https://github.com/ayushaks999/OceanForge_AI](https://github.com/ayushaks999/OceanForge_AI)
+**Tech:** Python, Streamlit, xarray, SQLAlchemy, LangChain, ChromaDB, scikit-learn, XGBoost, LightGBM, Plotly
 
 ---
 
@@ -52,9 +51,8 @@ Python, Streamlit, xarray, SQLAlchemy, LangChain, ChromaDB, scikit-learn, XGBoos
 
 A production-grade, agentic RAG system for querying large document collections. Supports multi-PDF ingestion, semantic chunking, hybrid retrieval, streaming LLM responses, structured JSON outputs, and tool orchestration.
 
-**Tech:**
-Python, Streamlit, LangChain, ChromaDB, LLMs
-🔗 Repository: [https://github.com/ayushaks999/RaG_Chatbot](https://github.com/ayushaks999/RaG_Chatbot)
+🔗 **Repository:** [https://github.com/ayushaks999/RaG_Chatbot](https://github.com/ayushaks999/RaG_Chatbot)
+**Tech:** Python, Streamlit, LangChain, ChromaDB, LLMs
 
 ---
 
@@ -62,9 +60,8 @@ Python, Streamlit, LangChain, ChromaDB, LLMs
 
 A cross-platform meeting intelligence application that records meetings, performs real-time speech-to-text transcription, and generates concise summaries and actionable items.
 
-**Tech:**
-Electron, Python, Flask, Socket.IO, Deepgram, LLMs
-🔗 Repository: [https://github.com/ayushaks999/AI-Meeting-Summarizer](https://github.com/ayushaks999/AI-Meeting-Summarizer)
+🔗 **Repository:** [https://github.com/ayushaks999/AI-Meeting-Summarizer](https://github.com/ayushaks999/AI-Meeting-Summarizer)
+**Tech:** Electron, Python, Flask, Socket.IO, Deepgram, LLMs
 
 ---
 
@@ -78,9 +75,8 @@ An end-to-end **Grammatical Error Correction (GEC)** system built using Transfor
 * Tokenization and text normalization
 * Quantitative evaluation using BLEU / SacreBLEU-style metrics
 
-**Tech:**
-Python, TensorFlow, Transformers, Datasets, SentencePiece
-🔗 Repository: [https://github.com/ayushaks999/Grammatical_Error_correction](https://github.com/ayushaks999/Grammatical_Error_correction)
+🔗 **Repository:** [https://github.com/ayushaks999/Grammatical_Error_correction](https://github.com/ayushaks999/Grammatical_Error_correction)
+**Tech:** Python, TensorFlow, Transformers, Datasets, SentencePiece
 
 ---
 
@@ -94,9 +90,8 @@ A computer vision project for **sign language recognition** that classifies hand
 * CNN-based gesture classification
 * Real-time inference-ready pipeline
 
-**Tech:**
-Python, OpenCV, TensorFlow/Keras, CNNs
-🔗 Repository: [https://github.com/ayushaks999/Sign_Language](https://github.com/ayushaks999/Sign_Language)
+🔗 **Repository:** [https://github.com/ayushaks999/Sign_Language](https://github.com/ayushaks999/Sign_Language)
+**Tech:** Python, OpenCV, TensorFlow/Keras, CNNs
 
 ---
 
@@ -110,9 +105,8 @@ A deep learning–based system for **malaria detection from microscopic blood sm
 * CNN-based image classification pipeline
 * Performance evaluation using confusion matrix and ROC curves
 
-**Tech:**
-Python, TensorFlow, OpenCV, scikit-learn
-🔗 Repository: [https://github.com/ayushaks999/Malaria_Prediction](https://github.com/ayushaks999/Malaria_Prediction)
+🔗 **Repository:** [https://github.com/ayushaks999/Malaria_Prediction](https://github.com/ayushaks999/Malaria_Prediction)
+**Tech:** Python, TensorFlow, OpenCV, scikit-learn
 
 ---
 
@@ -134,3 +128,4 @@ Python, TensorFlow, OpenCV, scikit-learn
 * LinkedIn: [https://linkedin.com/in/ayush-shaw-231b86325](https://linkedin.com/in/ayush-shaw-231b86325)
 * LeetCode: [https://leetcode.com/u/ayushaks099](https://leetcode.com/u/ayushaks099)
 * Codeforces: [https://codeforces.com/profile/ayushaks999](https://codeforces.com/profile/ayushaks999)
+
