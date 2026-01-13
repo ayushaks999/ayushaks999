@@ -3,9 +3,7 @@
 **B.Tech Computer Science @ NIT Durgapur (Class of 2027)**
 *Applied Machine Learning • Generative AI • Production-Grade Systems*
 
-<p>
-  <img align="left" width="120" src="./assets/Ayush_Shaw.png" alt="Ayush Shaw"/>
-</p>
+
 
 <p>
   <a href="mailto:ayushaks099@gmail.com">📧 ayushaks099@gmail.com</a> •
