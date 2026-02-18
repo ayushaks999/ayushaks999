@@ -1,129 +1,155 @@
 # 👋 Ayush Kumar Shaw
 
-**B.Tech Computer Science @ NIT Durgapur (Class of 2027)**
-*Applied Machine Learning • Generative AI • Production-Grade Systems*
+**Software Engineering–Focused Computer Science Undergraduate (Class of 2027)**
+*Scalable Systems • Backend Engineering • AI-Powered Applications*
 
-
-
-<p>
-  <a href="mailto:ayushaks099@gmail.com">📧 ayushaks099@gmail.com</a> •
-  <a href="https://linkedin.com/in/ayush-shaw-231b86325">LinkedIn</a> •
-  <a href="https://github.com/ayushaks999">GitHub</a>
-</p>
-
-<br clear="left"/>
+📧 [ayushaks099@gmail.com](mailto:ayushaks099@gmail.com)
+🔗 LinkedIn: [https://linkedin.com/in/ayush-shaw-231b86325](https://linkedin.com/in/ayush-shaw-231b86325)
+💻 GitHub: [https://github.com/ayushaks999](https://github.com/ayushaks999)
 
 ---
 
 ## 🚀 About Me
 
-I’m **Ayush Kumar Shaw**, a Computer Science undergraduate at **NIT Durgapur**, focused on building **production-ready AI systems** that deliver real-world impact.
+I’m a Computer Science undergraduate focused on building **scalable, production-grade software systems**.
 
-My work sits at the intersection of **Applied ML, Generative AI, and robust software engineering**—turning research ideas and prototypes into **scalable, observable, and maintainable systems**. I build agentic RAG platforms, multimodal ML pipelines, and data-intensive AI applications with a strong emphasis on explainability, evaluation, and deployment readiness.
+I design and develop **backend-heavy, data-intensive applications** with strong engineering principles — modular architecture, performance optimization, clean APIs, and deployment readiness.
 
-📍 Durgapur, India • 🎓 NIT Durgapur • 📩 [ayushaks099@gmail.com](mailto:ayushaks099@gmail.com)
+While many of my systems leverage AI, my primary focus is on:
 
----
-
-## 🧠 Core Expertise
-
-* **RAG & Generative AI** — Retrieval-augmented generation, hybrid retrieval, agentic workflows
-* **Machine Learning & Deep Learning** — Transformers, Vision Transformers, CNNs, uncertainty estimation
-* **Systems & MLOps** — scalable ingestion pipelines, vector databases, streaming inference, reproducibility
-* **Software Engineering** — Python, C++, SQL, Docker, CI/CD, Streamlit, Flask
+* Writing clean, maintainable code
+* Designing scalable architectures
+* Building reliable end-to-end systems
+* Shipping production-ready applications
 
 ---
 
-## 🏗️ Featured Projects
+## 🛠 Core Engineering Skills
 
-### 🌊 ARGO RAG Explorer — *Oceanographic ML + RAG Platform*
+### 💻 Software Engineering
 
-An end-to-end scientific ML + RAG platform that converts **ARGO NetCDF ocean profiles** into a structured, queryable database. The system integrates vector search with retrieval-augmented generation to provide provenance-tracked answers and supports multi-model forecasting with uncertainty estimation.
+* Data Structures & Algorithms
+* Object-Oriented Design
+* System Design Fundamentals
+* REST API Development
+* Database Design & Optimization
 
-🔗 **Repository:** [https://github.com/ayushaks999/OceanForge_AI](https://github.com/ayushaks999/OceanForge_AI)
-**Tech:** Python, Streamlit, xarray, SQLAlchemy, LangChain, ChromaDB, scikit-learn, XGBoost, LightGBM, Plotly
+### ⚙️ Backend & Systems
 
----
+* Python, C++, SQL
+* Flask, Streamlit
+* SQLAlchemy
+* Docker
+* CI/CD Fundamentals
 
-### ⚡ Agentic RAG — *Multi-PDF RAG Chatbot*
+### 🗄 Databases & Infrastructure
 
-A production-grade, agentic RAG system for querying large document collections. Supports multi-PDF ingestion, semantic chunking, hybrid retrieval, streaming LLM responses, structured JSON outputs, and tool orchestration.
+* Relational Databases (PostgreSQL/MySQL)
+* Vector Databases
+* Efficient Data Ingestion Pipelines
+* Query Optimization
 
-🔗 **Repository:** [https://github.com/ayushaks999/RaG_Chatbot](https://github.com/ayushaks999/RaG_Chatbot)
-**Tech:** Python, Streamlit, LangChain, ChromaDB, LLMs
+### 🧠 AI Integration (Engineering Perspective)
 
----
-
-### 🎤 AI Meeting Summarizer
-
-A cross-platform meeting intelligence application that records meetings, performs real-time speech-to-text transcription, and generates concise summaries and actionable items.
-
-🔗 **Repository:** [https://github.com/ayushaks999/AI-Meeting-Summarizer](https://github.com/ayushaks999/AI-Meeting-Summarizer)
-**Tech:** Electron, Python, Flask, Socket.IO, Deepgram, LLMs
-
----
-
-### ✍️ Grammatical Error Correction — *Transformer-based NLP System*
-
-An end-to-end **Grammatical Error Correction (GEC)** system built using Transformer architectures. The project focuses on data preprocessing, sequence-to-sequence modeling, and evaluation using standard NLP metrics to automatically correct grammatical errors in English text.
-
-**Highlights:**
-
-* Seq2Seq Transformer-based correction pipeline
-* Tokenization and text normalization
-* Quantitative evaluation using BLEU / SacreBLEU-style metrics
-
-🔗 **Repository:** [https://github.com/ayushaks999/Grammatical_Error_correction](https://github.com/ayushaks999/Grammatical_Error_correction)
-**Tech:** Python, TensorFlow, Transformers, Datasets, SentencePiece
+* LLM API Integration
+* Retrieval-Augmented Generation (RAG) Systems
+* ML Model Deployment & Evaluation
 
 ---
 
-### 🤟 Sign Language Recognition — *Vision-based Gesture Classification*
-
-A computer vision project for **sign language recognition** that classifies hand gestures from image/video inputs. Designed to improve accessibility by bridging communication between sign language users and non-signers.
-
-**Highlights:**
-
-* Image preprocessing and feature extraction
-* CNN-based gesture classification
-* Real-time inference-ready pipeline
-
-🔗 **Repository:** [https://github.com/ayushaks999/Sign_Language](https://github.com/ayushaks999/Sign_Language)
-**Tech:** Python, OpenCV, TensorFlow/Keras, CNNs
+# 🏗 Featured Engineering Projects
 
 ---
 
-### 🦠 Malaria Cell Detection — *Medical Image Classification*
+## 🌊 ARGO RAG Explorer — Scalable Data + Backend System
 
-A deep learning–based system for **malaria detection from microscopic blood smear images**. Trained and evaluated on the TFDS Malaria dataset, focusing on reliable classification and medical-imaging best practices.
+Built an end-to-end backend system that processes large-scale oceanographic NetCDF datasets into a structured, queryable SQL database.
 
-**Highlights:**
+### Engineering Highlights:
 
-* Binary classification: Parasitized vs Uninfected cells
-* CNN-based image classification pipeline
-* Performance evaluation using confusion matrix and ROC curves
+* Designed ingestion pipeline for scientific datasets
+* Built modular backend architecture for querying and forecasting
+* Integrated vector search with backend services
+* Implemented uncertainty-aware forecasting pipeline
+* Interactive frontend powered by Streamlit
 
-🔗 **Repository:** [https://github.com/ayushaks999/Malaria_Prediction](https://github.com/ayushaks999/Malaria_Prediction)
-**Tech:** Python, TensorFlow, OpenCV, scikit-learn
-
----
-
-## 🧾 Resume
-
-📄 [Download my resume (PDF)](./assets/Ayush_Shaw_Offcampus.pdf)
+**Tech:** Python, SQLAlchemy, Streamlit, ChromaDB, scikit-learn
+🔗 Repository: [https://github.com/ayushaks999/OceanForge_AI](https://github.com/ayushaks999/OceanForge_AI)
 
 ---
 
-## 🔍 What I’m Looking For
+## ⚡ Agentic RAG — Multi-Document Backend System
 
-**Seeking:** Machine Learning, Generative AI, and Software Development internship roles where strong engineering meets applied research.
+Designed a scalable document-processing pipeline that supports ingestion, semantic chunking, indexing, and hybrid retrieval.
+
+### Engineering Highlights:
+
+* Multi-file ingestion architecture
+* Efficient chunking and embedding pipeline
+* Streaming responses via backend orchestration
+* Structured JSON outputs for tool calling
+* Clean modular codebase
+
+**Tech:** Python, LangChain, Streamlit
+🔗 Repository: [https://github.com/ayushaks999/RaG_Chatbot](https://github.com/ayushaks999/RaG_Chatbot)
 
 ---
 
-## 🔗 Quick Links
+## 🎤 AI Meeting Summarizer — Full-Stack Application
 
-* GitHub: [https://github.com/ayushaks999](https://github.com/ayushaks999)
-* LinkedIn: [https://linkedin.com/in/ayush-shaw-231b86325](https://linkedin.com/in/ayush-shaw-231b86325)
+Developed a cross-platform meeting intelligence application with real-time processing.
+
+### Engineering Highlights:
+
+* Event-driven architecture using Socket.IO
+* Backend REST APIs for transcription and summarization
+* Real-time streaming pipeline
+* Desktop application integration via Electron
+* Modular service separation (recording → processing → summarization)
+
+**Tech:** Electron, Flask, Python, Socket.IO
+🔗 Repository: [https://github.com/ayushaks999/AI-Meeting-Summarizer](https://github.com/ayushaks999/AI-Meeting-Summarizer)
+
+---
+
+## 🦠 Malaria Detection — Optimized ML Pipeline
+
+Built a clean ML training and evaluation pipeline with reproducibility in mind.
+
+### Engineering Highlights:
+
+* Structured dataset pipeline
+* Modular training and evaluation framework
+* Clear separation of preprocessing, model training, and inference
+* Metrics tracking (ROC, confusion matrix)
+
+**Tech:** Python, TensorFlow, OpenCV
+🔗 Repository: [https://github.com/ayushaks999/Malaria_Prediction](https://github.com/ayushaks999/Malaria_Prediction)
+
+---
+
+# 🎯 Career Objective
+
+Seeking **Software Development Engineer (SDE) / SWE Internship roles** focused on:
+
+* Backend development
+* Scalable system design
+* Performance-oriented software engineering
+* Data-intensive distributed systems
+
+---
+
+# 🔗 Competitive Programming
+
 * LeetCode: [https://leetcode.com/u/ayushaks099](https://leetcode.com/u/ayushaks099)
 * Codeforces: [https://codeforces.com/profile/ayushaks999](https://codeforces.com/profile/ayushaks999)
+
+---
+
+⭐ Always open to collaborating on impactful engineering problems and scalable system design challenges.
+
+
+
+
+
 
