@@ -1,17 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=230&section=header&text=Ayush%20Kumar%20Shaw&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=NIT%20Durgapur%20CSE%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Agentic%20RAG&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0F172A,45:1E293B,70:2563EB,100:06B6D4&text=Ayush%20Kumar%20Shaw&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NIT%20Durgapur%20CSE%20%7C%20Backend%20Engineering%20%7C%20AI%20Systems%20%7C%20RAG%20Engineering&descAlignY=60&descSize=19" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-ready+AI+%2B+backend+systems;LeetCode+Knight+%7C+Codeforces+Specialist;RAG+Systems+%7C+LLM+Apps+%7C+ML+Pipelines+%7C+System+Design;Turning+ideas+into+deployed%2C+usable+engineering+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Building+production-grade+AI+%2B+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Backend+Engineering+%7C+LLMs+%7C+Retrieval+Systems+%7C+Cloud;LeetCode+Knight+%7C+Codeforces+Specialist;Turning+complex+ideas+into+deployable+products" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0F172A?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Shaw-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushaks999-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushaks999)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/ayushaks9999/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/ayushaks999)
-[![Email](https://img.shields.io/badge/Email-ayushaks099%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushaks099@gmail.com)
+<a href="https://linkedin.com/in/ayush-shaw-231b86325">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ayushaks999">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:ayushaks099@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/ayushaks0999/">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://codeforces.com/profile/ayushaks999">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushaks999&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" />
 
 </div>
 
@@ -105,17 +118,17 @@ Current Focus
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
 ### Backend / APIs / Databases
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge)
 
 ### AI / ML / GenAI
 
@@ -152,7 +165,7 @@ Current Focus
 
 **Production-ready RAG platform for multi-PDF question answering with authentication, persistent storage, active learning, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ayushaks999/RaG_Chatbot)
+[![Repo](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge\&logo=github)](https://github.com/ayushaks999/RaG_Chatbot)
 
 **Tech:** Python, Streamlit, LangChain, Gemini API, ChromaDB, SQLite, Docker, Azure, Tavily
 
@@ -175,7 +188,7 @@ Current Focus
 
 **Agentic RAG system that turns raw sales and marketing data into automated executive reports using multi-agent orchestration, retrieval provenance, charts, and scheduled delivery.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ayushaks999)
+[![Repo](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge\&logo=github)](https://github.com/ayushaks999)
 
 **Tech:** Python, Streamlit, AutoGen, RAG, ChromaDB, GROQ/OpenAI APIs, SQLite, Docker
 
@@ -202,7 +215,7 @@ Current Focus
 
 **Oceanographic ML + RAG system that converts ARGO NetCDF sensor data into structured, queryable databases for visualization, prediction, and scientific question answering.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ayushaks999/OceanForge_AI)
+[![Repo](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge\&logo=github)](https://github.com/ayushaks999/OceanForge_AI)
 
 **Tech:** Python, Streamlit, LangChain, ChromaDB, XGBoost, LightGBM, SQLAlchemy
 
@@ -223,7 +236,7 @@ Current Focus
 
 **RAG systems designed for robust document understanding, hybrid retrieval, tool orchestration, streaming responses, and structured LLM outputs.**
 
-[![Repo](https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge\&logo=github)](https://github.com/ayushaks999?tab=repositories)
+[![Repo](https://img.shields.io/badge/View%20Projects-111827?style=for-the-badge\&logo=github)](https://github.com/ayushaks999?tab=repositories)
 
 **Tech:** Python, Streamlit, Flask, LangChain, ChromaDB, SQLite, LLM APIs
 
@@ -307,7 +320,7 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
 [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushaks099@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushaks999)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushaks999)
 
 </div>
 
@@ -317,6 +330,4 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 ### ⭐ Building systems that are useful, scalable, and production-ready.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,100:0F172A&height=120&section=footer" />
-
-</div>
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=140&sec](https://capsule-render.vercel.app/api?type=waving&height=140&sec)
