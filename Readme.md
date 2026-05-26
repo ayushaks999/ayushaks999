@@ -59,7 +59,13 @@ Current Focus
 </td>
 <td width="34%" valign="top">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Developer animation" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" alt="AI and coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=330&lines=Backend+Systems;Agentic+RAG;ML+Pipelines;Production-Ready+AI;System+Design+%2B+DSA" alt="Focus animation" />
+</p>
 
 </td>
 </tr>
