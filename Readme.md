@@ -60,7 +60,7 @@ Current Focus
 <td width="34%" valign="top">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" alt="AI and coding animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushaks999&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Top languages" />
 </p>
 
 <p align="center">
