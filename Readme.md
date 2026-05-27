@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://ayushportfolio-sepia.vercel.app">
+<a href="https://ayush-sepia.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/ayush-shaw-231b86325">
@@ -116,7 +116,7 @@ Current Focus
 | 🧠 DSA | 1000+ problems solved across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
 | 📈 JEE Main | 98.1 percentile among 1.6M+ candidates |
 | 🛠 Projects | Agentic RAG, ARGO RAG Explorer, AI Sales Report Generator, AI Meeting Summarizer, Voice Assistant, ML pipelines |
-| 🌐 Portfolio | [Live Portfolio Website](https://ayushportfolio-sepia.vercel.app) |
+| 🌐 Portfolio | [Live Portfolio Website](https://ayushshaw-nitdgp.vercel.app/) |
 
 </div>
 
